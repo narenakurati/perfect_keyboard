@@ -5,6 +5,7 @@ https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFX
 
 # Important Links
 - Custom plates: https://lasergist.com/
+- More custom plates: https://www.ponoko.com/
 - Build guide: https://blog.louwii.com/2018/10/xd87-tkl-kit-build-log/
 - SIP socket mod: https://imgur.com/a/asdXP
 - Table of all switches: https://airtable.com/shr2beqjUXzTk6GfS/tblYLigKdFcOriJ1k?backgroundColor=orange&viewControls=on&blocks=hide
