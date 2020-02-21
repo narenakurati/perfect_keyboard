@@ -1,5 +1,8 @@
 # perfect_keyboard
 
+# Parts Link:
+https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFXz1I/edit#gid=818085207
+
 # Important Links
 - Custom plates: https://lasergist.com/
 - Build guide: https://blog.louwii.com/2018/10/xd87-tkl-kit-build-log/
