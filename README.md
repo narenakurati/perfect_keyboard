@@ -6,7 +6,8 @@ https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFX
 # Important Links
 - Custom plates: https://lasergist.com/
 - More custom plates: https://www.ponoko.com/
-- Build guide: https://blog.louwii.com/2018/10/xd87-tkl-kit-build-log/
+- Build guide:
+- Custom layout: https://blog.louwii.com/2018/09/xd87-tkl-keyboard-kit-how-to-customize-the-layout-firmware-flash-keyboard/
 - SIP socket mod: https://imgur.com/a/asdXP
 - Table of all switches: https://airtable.com/shr2beqjUXzTk6GfS/tblYLigKdFcOriJ1k?backgroundColor=orange&viewControls=on&blocks=hide
 - Another table of all switches: https://thegamingsetup.com/gaming-keyboard/buying-guides/keyboard-switch-chart-table
