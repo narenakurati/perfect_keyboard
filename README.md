@@ -21,3 +21,4 @@ https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFX
 - Keyboard layout and sizing: https://drop.com/talk/947/physical-keyboard-layouts-explained-in-detail
 - Plate mounting styles: https://thomasbaart.nl/2019/04/07/cheat-sheet-custom-keyboard-mounting-styles/
 - Pictures of the XD87 board: https://www.dropbox.com/sh/mckuuhuc0hqth7d/AACR7ZE59YydSOVHin1PdCPAa?dl=0
+- *Switch Hitter* Program to test if keys are working: https://www.majorgeeks.com/files/details/switch_hitter.html
