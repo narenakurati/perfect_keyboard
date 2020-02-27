@@ -18,6 +18,7 @@ https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFX
 - QMK configurator: https://config.qmk.fm/#/xd87/LAYOUT_tkl_iso
 - QMK Bootmagic (Change layout during keyboard bootup): https://beta.docs.qmk.fm/features/feature_bootmagic
 - XD87 QMK firmware: https://github.com/qmk/qmk_firmware/tree/master/keyboards/xd87
+- QMK firmware issue for Apple function key: https://github.com/qmk/qmk_firmware/issues/2179
 - Soldering tutorial: https://www.youtube.com/watch?v=fYz5nIHH0iY
 - Keyboard layout and sizing: https://drop.com/talk/947/physical-keyboard-layouts-explained-in-detail
 - Plate mounting styles: https://thomasbaart.nl/2019/04/07/cheat-sheet-custom-keyboard-mounting-styles/
