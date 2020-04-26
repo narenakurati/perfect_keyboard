@@ -6,7 +6,6 @@ https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFX
 # Important Links
 - Custom plates: https://lasergist.com/
 - More custom plates: https://www.ponoko.com/
-- Build guide:
 - Custom layout: https://blog.louwii.com/2018/09/xd87-tkl-keyboard-kit-how-to-customize-the-layout-firmware-flash-keyboard/
 - SIP socket mod: https://imgur.com/a/asdXP
 - Table of all switches: https://airtable.com/shr2beqjUXzTk6GfS/tblYLigKdFcOriJ1k?backgroundColor=orange&viewControls=on&blocks=hide
@@ -24,4 +23,3 @@ https://docs.google.com/spreadsheets/d/1VmbdFaU9c96FI5X5ReLeRYyJoYMxX2unVWlt9aFX
 - Plate mounting styles: https://thomasbaart.nl/2019/04/07/cheat-sheet-custom-keyboard-mounting-styles/
 - Pictures of the XD87 board: https://www.dropbox.com/sh/mckuuhuc0hqth7d/AACR7ZE59YydSOVHin1PdCPAa?dl=0
 - *Switch Hitter* Program to test if keys are working: https://www.majorgeeks.com/files/details/switch_hitter.html
--
